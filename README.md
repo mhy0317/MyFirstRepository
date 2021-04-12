@@ -13,4 +13,4 @@ __첫 번째__
 
 >문단 모양이 된거죠.
 
-<img width="" height="" src="./png/001.jpg">
+<img width="300" height="600" src="./png/001.jpg">
